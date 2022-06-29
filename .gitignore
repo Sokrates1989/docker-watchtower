@@ -1,0 +1,5 @@
+# Ignore the actually used .env file.
+.env
+
+# Ignore portainer settings.
+portainer-data
